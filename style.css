@@ -51,3 +51,7 @@ footer a {
 footer a:hover {
     color: cornflowerblue;
 }
+a {
+    color: #222;
+    text-decoration: none;
+}
